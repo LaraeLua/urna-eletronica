@@ -26,14 +26,6 @@ let etapas = [
                 fotos: [
                     {url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.terra.com.br%2Fdiversao%2Fgente%2Ffaustao-nao-vai-mais-apresentar-o-domingao-na-globo%2C4dd38abc4c1ac39d780ed39444365ad7k5z9ipx5.html&psig=AOvVaw2biS2dSF2Rra5lBIZiQUyh&ust=1666874142311000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCrvZn0_foCFQAAAAAdAAAAABAI', legenda: 'Deputado Federal'}
                 ]
-            },
-            {
-                numero: '92001',
-                nome: 'Fábio',
-                partido: 'DEFG',
-                fotos: [
-                    {url: '92001.jpg', legenda: 'Deputado Federal'}
-                ]
             }
         ]
     },
@@ -42,23 +34,33 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: '68000',
-                nome: 'Lívia',
-                partido: 'ABC',
-                vice: 'Sebastião',
+                numero: '50333',
+                nome: 'Adão Fernandes',
+                partido: 'PSOL',
+                vice: '',
                 fotos: [
-                    {url: '68.jpg', legenda: 'Prefeito'},
-                    {url: '68_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             },
             {
-                numero: '42',
-                nome: 'Manuel',
-                partido: 'DEFG',
-                vice: 'Martin',
+                numero: '70070',
+                nome: 'Alberto Lima',
+                partido: 'Avante',
+                vice: '',
                 fotos: [
-                    {url: '42.jpg', legenda: 'Prefeito'},
-                    {url: '42_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
+                ] 
+            },
+            {
+                numero: '14357',
+                nome: 'Cabo Erickson',
+                partido: 'PTB',
+                vice: '',
+                fotos: [
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             }
         ]
@@ -69,23 +71,33 @@ let etapas = [
         numeros: 3,
         candidatos: [
             {
-                numero: '68',
-                nome: 'Lívia',
-                partido: 'ABC',
-                vice: 'Sebastião',
+                numero: '160',
+                nome: 'Carlos Silva',
+                partido: 'PSTU',
+                vice: '',
                 fotos: [
-                    {url: '68.jpg', legenda: 'Prefeito'},
-                    {url: '68_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             },
             {
-                numero: '42',
-                nome: 'Manuel',
-                partido: 'DEFG',
-                vice: 'Martin',
+                numero: '555',
+                nome: 'Erika Amorim',
+                partido: 'PSD',
+                vice: '',
                 fotos: [
-                    {url: '42.jpg', legenda: 'Prefeito'},
-                    {url: '42_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
+                ] 
+            },
+            {
+                numero: '700',
+                nome: 'Kamila Cardoso',
+                partido: 'Avante',
+                vice: '',
+                fotos: [
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             }
         ]
@@ -96,23 +108,33 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '68',
-                nome: 'Lívia',
-                partido: 'ABC',
-                vice: 'Sebastião',
+                numero: '21',
+                nome: 'Chico Malta',
+                partido: 'PCB',
+                vice: '',
                 fotos: [
-                    {url: '68.jpg', legenda: 'Prefeito'},
-                    {url: '68_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             },
             {
-                numero: '42',
-                nome: 'Manuel',
-                partido: 'DEFG',
-                vice: 'Martin',
+                numero: '80',
+                nome: 'Serley Leal',
+                partido: 'UP',
+                vice: '',
                 fotos: [
-                    {url: '42.jpg', legenda: 'Prefeito'},
-                    {url: '42_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
+                ] 
+            },
+            {
+                numero: '16',
+                nome: 'Zé Batista',
+                partido: 'PSTU',
+                vice: '',
+                fotos: [
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             }
         ]
@@ -123,23 +145,23 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '68',
-                nome: 'Lívia',
-                partido: 'ABC',
-                vice: 'Sebastião',
+                numero: '30',
+                nome: 'Luiz Felipe d’Avila',
+                partido: 'Novo',
+                vice: '',
                 fotos: [
-                    {url: '68.jpg', legenda: 'Prefeito'},
-                    {url: '68_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             },
             {
-                numero: '42',
-                nome: 'Manuel',
-                partido: 'DEFG',
-                vice: 'Martin',
+                numero: '80',
+                nome: 'Léo Péricles',
+                partido: 'UP',
+                vice: '',
                 fotos: [
-                    {url: '42.jpg', legenda: 'Prefeito'},
-                    {url: '42_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '', legenda: 'Prefeito'},
+                    {url: '', legenda: 'Vice-Prefeito', small: true}
                 ] 
             }
         ]
